@@ -1,0 +1,104 @@
+h1 {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+}
+
+.navbar {
+    width: 100%;
+    padding: 4px;
+    background-color: #F48FB1;
+    display: flex;
+    flex-direction: row;
+}
+
+.perfil {
+    color: #F48FB1;
+}
+
+.logo {
+    height: 90px;
+}
+
+.vermelho {
+    background-color: #de0202f1;
+    width: 200px;
+    height: 66px;
+    text-align: center;
+    align-content: center;
+    border-radius: 4px;
+}
+
+.laranja {
+    background-color: orange;
+    width: 200px;
+    height: 66px;
+    text-align: center;
+    align-content: center;
+    border-radius: 4px;
+}
+
+.amarelo {
+    background-color: rgb(255, 251, 0);
+    width: 200px;
+    height: 66px;
+    text-align: center;
+    align-content: center;
+    border-radius: 4px;
+}
+
+.verde {
+    background-color: rgb(3, 255, 3);
+    width: 200px;
+    height: 66px;
+    text-align: center;
+    align-content: center;
+    border-radius: 4px;
+}
+
+
+.azul {
+    background-color: rgb(0, 166, 255);
+    width: 200px;
+    height: 66px;
+    text-align: center;
+    align-content: center;
+    border-radius: 4px;
+}
+
+.perfis {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+.insta {
+    background-color: rgb(189, 89, 236);
+    width: 200px;
+    height: 66px;
+    text-align: center;
+    align-content: center;
+    border-radius: 4px;
+}
+
+.texto {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.videoinicial {
+    width: 1050px;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    padding: 4px;
+}
+
